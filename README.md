@@ -9,3 +9,5 @@ I'm Kevin and I'm a student at USC (Fight On! :v:) studying Mechanical Engineeri
 - 🔭 I’m currently working on HACKATHONS!!
 - 🌱 I'm currently learning JavaScript, 
 - 📫 Feel free to contact me through [email](mailto:khjing@usc.edu?subject=[GitHub]%20Hello!) or [LinkedIn](https://www.linkedin.com/in/kevinjing/)
+
+Check out some of the cool stuff I've worked on!
